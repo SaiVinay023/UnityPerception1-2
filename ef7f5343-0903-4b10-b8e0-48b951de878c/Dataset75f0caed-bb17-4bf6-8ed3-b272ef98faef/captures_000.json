@@ -1,0 +1,356 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "c25f23f5-71d7-4907-bcde-42ba5fc54eff",
+      "sequence_id": "b978c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBa054e7cf-95d7-4ef3-91ef-14cf895ff195/rgb_2.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.444500029,
+                "y": 0.444500059,
+                "z": 1.4738338
+              },
+              "rotation": {
+                "x": -0.702500641,
+                "y": 0.08057831,
+                "z": -0.0805783346,
+                "w": 0.702500641
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 1,
+              "x": 658.0,
+              "y": 401.0,
+              "width": 44.0,
+              "height": 101.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3c174cae-4f4b-4f86-9120-482be1fbd0f0/segmentation_2.png"
+        }
+      ]
+    },
+    {
+      "id": "313877c6-2999-4ee4-9524-e6479cdf1da4",
+      "sequence_id": "ba78c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBa054e7cf-95d7-4ef3-91ef-14cf895ff195/rgb_3.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 1,
+              "x": 658.0,
+              "y": 401.0,
+              "width": 44.0,
+              "height": 101.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3c174cae-4f4b-4f86-9120-482be1fbd0f0/segmentation_3.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.444500029,
+                "y": 0.444500059,
+                "z": 1.4738338
+              },
+              "rotation": {
+                "x": -0.702500641,
+                "y": 0.08057831,
+                "z": -0.0805783346,
+                "w": 0.702500641
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f127dedb-2b7c-40ff-a7c9-5cba77f52657",
+      "sequence_id": "bb78c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBa054e7cf-95d7-4ef3-91ef-14cf895ff195/rgb_4.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3c174cae-4f4b-4f86-9120-482be1fbd0f0/segmentation_4.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 1,
+              "x": 658.0,
+              "y": 401.0,
+              "width": 44.0,
+              "height": 101.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.444500029,
+                "y": 0.444500059,
+                "z": 1.4738338
+              },
+              "rotation": {
+                "x": -0.702500641,
+                "y": 0.08057831,
+                "z": -0.0805783346,
+                "w": 0.702500641
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

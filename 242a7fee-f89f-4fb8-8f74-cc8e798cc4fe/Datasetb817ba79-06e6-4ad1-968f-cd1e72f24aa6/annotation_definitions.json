@@ -1,0 +1,191 @@
+{
+  "version": "0.0.1",
+  "annotation_definitions": [
+    {
+      "id": "bounding box",
+      "name": "bounding box",
+      "description": "Produces 2D bounding box annotations for all visible objects that bear a label defined in this labeler's associated label configuration.",
+      "format": "json",
+      "spec": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen"
+        },
+        {
+          "label_id": 2,
+          "label_name": "drink_whippingcream_lucerne"
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea"
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron"
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut"
+        },
+        {
+          "label_id": 6,
+          "label_name": "candy_minipralines_lindt"
+        },
+        {
+          "label_id": 7,
+          "label_name": "pasta_lasagne_barilla"
+        },
+        {
+          "label_id": 8,
+          "label_name": "snack_granolabar_naturevalley"
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_biscotti_ghiott"
+        }
+      ]
+    },
+    {
+      "id": "semantic segmentation",
+      "name": "semantic segmentation",
+      "description": "Generates a semantic segmentation image for each captured frame. Each object is rendered to the semantic segmentation image using the color associated with it based on this labeler's associated semantic segmentation label configuration. Semantic segmentation images are saved to the dataset in PNG format. Please note that only one SemanticSegmentationLabeler can render at once across all cameras.",
+      "format": "PNG",
+      "spec": [
+        {
+          "label_name": "drink_greentea_itoen",
+          "pixel_value": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "drink_whippingcream_lucerne",
+          "pixel_value": {
+            "r": 0.0,
+            "g": 1.0,
+            "b": 0.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "lotion_essentially_nivea",
+          "pixel_value": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "craft_yarn_caron",
+          "pixel_value": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "cereal_cheerios_honeynut",
+          "pixel_value": {
+            "r": 1.0,
+            "g": 0.921568632,
+            "b": 0.0156862754,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "candy_minipralines_lindt",
+          "pixel_value": {
+            "r": 0.5,
+            "g": 0.5,
+            "b": 0.5,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "pasta_lasagne_barilla",
+          "pixel_value": {
+            "r": 0.223169923,
+            "g": 1.0,
+            "b": 0.9893137,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "snack_granolabar_naturevalley",
+          "pixel_value": {
+            "r": 0.111631572,
+            "g": 1.0,
+            "b": 0.6941036,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "snack_biscotti_ghiott",
+          "pixel_value": {
+            "r": 0.0262816548,
+            "g": 0.802404761,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "cleaning_snuggle_henkel",
+          "pixel_value": {
+            "r": 0.5630501,
+            "g": 0.4602716,
+            "b": 1.0,
+            "a": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "bounding box 3D",
+      "name": "bounding box 3D",
+      "description": "Produces 3D bounding box ground truth data for all visible objects that bear a label defined in this labeler's associated label configuration.",
+      "format": "json",
+      "spec": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen"
+        },
+        {
+          "label_id": 2,
+          "label_name": "drink_whippingcream_lucerne"
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea"
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron"
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut"
+        },
+        {
+          "label_id": 6,
+          "label_name": "candy_minipralines_lindt"
+        },
+        {
+          "label_id": 7,
+          "label_name": "pasta_lasagne_barilla"
+        },
+        {
+          "label_id": 8,
+          "label_name": "snack_granolabar_naturevalley"
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_biscotti_ghiott"
+        }
+      ]
+    }
+  ]
+}

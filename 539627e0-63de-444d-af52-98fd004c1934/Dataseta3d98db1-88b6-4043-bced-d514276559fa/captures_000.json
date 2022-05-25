@@ -1,0 +1,6570 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "0beef80e-f806-48f4-b31e-2545cdca580d",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 0,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_2.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c8628a17-4777-4b5e-b79b-7a7c7150a4f0",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 1,
+      "timestamp": 0.0332,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_3.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "4af19335-b444-41fa-b856-e6a5b461e52c",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 2,
+      "timestamp": 0.0498,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_4.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d9e3dd86-1efe-4a2c-b42c-ec8dcfae9d7c",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 3,
+      "timestamp": 0.0664,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_5.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "42521b2f-b0cb-4918-a1a7-dc3426cdd088",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 4,
+      "timestamp": 0.083,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_6.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "685e3c9d-2034-48b0-a48f-6ea25c511f4e",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 5,
+      "timestamp": 0.0995999947,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_7.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "98460a07-129d-4f71-9f92-7233fac6d8f4",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 6,
+      "timestamp": 0.116199993,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_8.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "5f5065ba-1093-4fe5-8615-299f3c032273",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 7,
+      "timestamp": 0.1328,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_9.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a59b2c66-fa45-40a9-ade9-f8594485eead",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 8,
+      "timestamp": 0.1494,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_10.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "4e692a9a-50c8-4067-b8aa-558457a245ef",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 9,
+      "timestamp": 0.166,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_11.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c348e859-d96e-45c7-aaf3-99509d518f33",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 10,
+      "timestamp": 0.182599992,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_12.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "858d1658-5b6f-498a-b6f8-c3886b93e216",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 11,
+      "timestamp": 0.199199989,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_13.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "403f932b-1453-43f0-be4d-d868f6159bc1",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 12,
+      "timestamp": 0.215799987,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_14.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "af003328-9934-48c7-8f32-0b57b8d048b6",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 13,
+      "timestamp": 0.232399985,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_15.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "1f83d00a-a9bc-43f9-a8f3-d1ea0d7cf3b3",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 14,
+      "timestamp": 0.248999983,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_16.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "03549034-c67a-4e25-8834-05d2f3edb80b",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 15,
+      "timestamp": 0.2656,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_17.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "5ec4ea66-aaba-4500-8afb-b2672a1de535",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 16,
+      "timestamp": 0.2822,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_18.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "942e1d6a-14f9-4f6e-90da-e8bc656edfb8",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 17,
+      "timestamp": 0.298800021,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_19.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d10d1ea5-a108-4dc0-8868-41ee7e6bbb60",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 18,
+      "timestamp": 0.315400034,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_20.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2020270c-0283-4948-9600-5991ccec4a52",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 19,
+      "timestamp": 0.332000047,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_21.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "f429e627-6b9b-439b-ac1e-b02bfc88a447",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 20,
+      "timestamp": 0.34860006,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_22.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "20968189-1184-430f-8a30-03d9aea07ce6",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 21,
+      "timestamp": 0.365200073,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_23.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3f5a31c5-c821-42d6-b051-3e1c099340a4",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 22,
+      "timestamp": 0.3818001,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_24.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d0dd3e15-48a0-4a22-a8b5-2bc6a3d8dc4a",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 23,
+      "timestamp": 0.3984001,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_25.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "edbefaf1-671d-4d22-8a55-fa72f7df0313",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 24,
+      "timestamp": 0.4150001,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_26.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3c528842-b725-4f1f-bc36-d29d6c0316d7",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 25,
+      "timestamp": 0.431600124,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_27.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "83ba0353-fb4b-48cb-94db-6c82d38a8dff",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 26,
+      "timestamp": 0.448200136,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_28.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "525865a6-db8e-4c70-a4dd-35e29b9634a5",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 27,
+      "timestamp": 0.464800149,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_29.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "95bb707c-9bdb-422e-a5ca-3229cbdd1f65",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 28,
+      "timestamp": 0.481400162,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_30.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "da26ac8e-7545-4054-9b70-f4e829deda1a",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 29,
+      "timestamp": 0.498000175,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_31.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "8d95682d-5c8d-4b0b-a60b-296745889d59",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 30,
+      "timestamp": 0.514600158,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_32.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2ca87405-8ce4-4cba-bd65-4c8faf9ce106",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 31,
+      "timestamp": 0.5312002,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_33.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "ca58f40c-c5d2-4ad4-96fa-a1f20312eb34",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 32,
+      "timestamp": 0.5478002,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_34.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "7296325c-11c3-4020-9f00-920e44cc14c6",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 33,
+      "timestamp": 0.5644002,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_35.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "76588624-008e-4c31-97e0-04442cc2045e",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 34,
+      "timestamp": 0.5810002,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_36.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "761857a6-ef53-4553-8366-1fa206850a0e",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 35,
+      "timestamp": 0.5976002,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_37.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "af019648-e698-4237-8fb3-d59bd3bb2e41",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 36,
+      "timestamp": 0.614200234,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_38.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3c17308d-cf6d-4463-92bc-a2ca9ed5c2c5",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 37,
+      "timestamp": 0.630800247,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_39.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d23c2c9f-f5fc-495a-b131-4cb60b43647f",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 38,
+      "timestamp": 0.64740026,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_40.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3d9f8c93-5148-4b58-bb6c-9350261c88f2",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 39,
+      "timestamp": 0.6640003,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_41.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "47229caf-3283-49ed-8582-a9be086c1870",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 40,
+      "timestamp": 0.6806003,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_42.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "58427d5d-dea2-44e2-8760-ab7cb6e1f6fd",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 41,
+      "timestamp": 0.6972003,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_43.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "adf2b186-ec7b-4530-9c40-61746e5b1035",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 42,
+      "timestamp": 0.7138003,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_44.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d65eacc4-88cc-424a-ad8b-d22017fe3a80",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 43,
+      "timestamp": 0.7304003,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_45.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2ae9a56a-9b12-4273-8e9b-98d31b8e37a9",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 44,
+      "timestamp": 0.747000337,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_46.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "067443bb-c325-4e3f-a1e8-d29a2206dc71",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 45,
+      "timestamp": 0.763600349,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_47.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "173492e3-2170-4f03-b7d8-8fd11063617d",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 46,
+      "timestamp": 0.780200362,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_48.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2fe75078-92bb-441e-b803-ecb21c8d619c",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 47,
+      "timestamp": 0.7968004,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_49.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "eda7669e-6f8e-497c-82ba-dc663b654287",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 48,
+      "timestamp": 0.8134004,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_50.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "04fec774-388c-47d6-961f-86beffaae393",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 49,
+      "timestamp": 0.8300004,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_51.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "0060084e-5685-47a9-b3f9-9a73cfe5ce2f",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 50,
+      "timestamp": 0.8466004,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_52.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e41a0a4e-9f01-40ba-808a-fc5b660f4b44",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 51,
+      "timestamp": 0.8632004,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_53.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "cbd9af33-56c9-4d63-a5af-6ef40cf687b3",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 52,
+      "timestamp": 0.879800439,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_54.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "29389a7e-67de-4cb2-a263-65074e4b0fac",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 53,
+      "timestamp": 0.896400452,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_55.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "1fb5551f-098d-41d1-a5aa-b78f8de607a6",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 54,
+      "timestamp": 0.913000464,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_56.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a2f58631-6f50-431a-970e-9a041c35d06f",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 55,
+      "timestamp": 0.9296005,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_57.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "5c04fbf5-0597-470a-bd8c-5dec4773a523",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 56,
+      "timestamp": 0.9462005,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_58.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "ab12f335-2943-483d-a209-ca16179e6f92",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 57,
+      "timestamp": 0.9628005,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_59.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "594b67bd-bf64-4dae-bae5-b3faa654ff85",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 58,
+      "timestamp": 0.9794005,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_60.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3aa86b9d-6739-4960-9b43-dfc3d384b3cb",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 59,
+      "timestamp": 0.9960005,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_61.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e1f5548b-8a09-40ae-bcf2-3b0ac6598c3b",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 60,
+      "timestamp": 1.01260054,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_62.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "07e9d8d4-9b51-40b9-82e2-cae4c56f05ba",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 61,
+      "timestamp": 1.02920055,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_63.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2ce2f348-29db-4d1a-9ef2-0c8f46d6058b",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 62,
+      "timestamp": 1.04580057,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_64.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a3e52884-e3cb-4dcd-9453-a223232d5c53",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 63,
+      "timestamp": 1.06240058,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_65.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a7bf2d33-80d1-47b6-8271-dcb51ec4c1e2",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 64,
+      "timestamp": 1.07900059,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_66.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "37e6dc1a-26c0-4ee9-a9fd-ebf9430d3a97",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 65,
+      "timestamp": 1.09560061,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_67.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "08d5e970-fe20-4d62-950a-721d51984882",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 66,
+      "timestamp": 1.11220062,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_68.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a0075b99-a11f-487f-9038-f27a2655fef3",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 67,
+      "timestamp": 1.12880063,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_69.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "4ca5b53d-772b-49b8-a8f0-66da15c74874",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 68,
+      "timestamp": 1.14540064,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_70.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "85c57fe5-3041-499c-87ad-98a0499a6502",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 69,
+      "timestamp": 1.16200066,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_71.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "9e050f6c-fe4d-4876-8b97-f55cdf6b88c9",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 70,
+      "timestamp": 1.17860067,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_72.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a1d4d7d0-f7ee-4642-baf3-53d2cba2a2ca",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 71,
+      "timestamp": 1.19520068,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_73.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "bc06fe6d-d2e9-424a-bebf-24d00c8104a5",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 72,
+      "timestamp": 1.21180069,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_74.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "354dc51c-581f-49b7-9a94-255c772de575",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 73,
+      "timestamp": 1.22840071,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_75.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e63c5bfa-6ae9-472f-b53a-9f35e78f6239",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 74,
+      "timestamp": 1.24500072,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_76.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e3942d37-ae6b-4ffd-bdc0-1f09db302630",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 75,
+      "timestamp": 1.26160073,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_77.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "4c8870b8-a089-40ef-aea4-06ad71d8696b",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 76,
+      "timestamp": 1.27820075,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_78.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "8877ac38-b086-43bb-9b28-0aa9e67e36d6",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 77,
+      "timestamp": 1.29480076,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_79.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "bb800f65-affa-46e6-baf0-f9819891e40b",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 78,
+      "timestamp": 1.31140077,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_80.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2f59f072-0375-490c-922c-0e7de65af451",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 79,
+      "timestamp": 1.32800078,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_81.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "1277847b-e760-4e6a-9d16-0c42fae87783",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 80,
+      "timestamp": 1.3446008,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_82.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e6fc8be1-f5f2-4990-97f6-a45b277a90a2",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 81,
+      "timestamp": 1.36120081,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_83.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "34a395f6-22a8-4601-bf5f-13f482c0ae51",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 82,
+      "timestamp": 1.37780082,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_84.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "745b8dbf-4ce8-4e77-8204-44d7c819d009",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 83,
+      "timestamp": 1.39440084,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_85.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "550ee7d0-b83b-4286-ae97-83c79ad0eb93",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 84,
+      "timestamp": 1.41100085,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_86.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "35555842-8c6d-4acf-9ca1-cf5076a861f3",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 85,
+      "timestamp": 1.42760086,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_87.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "8489345a-9de7-4860-9e36-e9c28ae8515d",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 86,
+      "timestamp": 1.44420087,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_88.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e2234a86-ead1-4b98-a912-a21da32aaa3c",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 87,
+      "timestamp": 1.46080089,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_89.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e20b9a00-7cf0-4d48-9ac5-549cf00cbc13",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 88,
+      "timestamp": 1.4774009,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_90.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c876ab5c-3f99-475d-a75f-057b28aa72c2",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 89,
+      "timestamp": 1.49400091,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_91.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "dabae536-01f2-44be-a9d5-c4aa86fe0418",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 90,
+      "timestamp": 1.51060092,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_92.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "ff71b990-44a0-4304-bfe2-bcb8bcb04105",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 91,
+      "timestamp": 1.52720094,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_93.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e5204618-4d36-42a1-9da3-3a28495787e9",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 92,
+      "timestamp": 1.543801,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_94.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "4c8471f7-1c30-443e-bbb4-f3985a93ba83",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 93,
+      "timestamp": 1.560401,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_95.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c0bcd7de-07b8-417a-b7f2-9d54350545cb",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 94,
+      "timestamp": 1.577001,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_96.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "03220479-9d15-4fa3-83bd-481a18b3a46a",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 95,
+      "timestamp": 1.593601,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_97.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "f321964d-11bc-405b-ad7c-aeac89b718cd",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 96,
+      "timestamp": 1.610201,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_98.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "9c20f1de-9582-4ed0-a49f-88bbd912e32b",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 97,
+      "timestamp": 1.626801,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_99.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "360ccd2e-2b66-4521-8cdf-7423220c8aba",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 98,
+      "timestamp": 1.643401,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_100.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "0ec0ba50-80af-41db-a5be-b96869a215d4",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 99,
+      "timestamp": 1.660001,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_101.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a5675e76-1dba-45ca-9d7d-db82b7e2dcd6",
+      "sequence_id": "87081eda-ddcf-4254-9648-975024093669",
+      "step": 100,
+      "timestamp": 1.676601,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB44ae1354-f23c-42d3-abcb-8f6e95a75cb1/rgb_102.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2135 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "9ddc726c-d21b-4309-9a92-6d6827a72d86",
+      "sequence_id": "acb65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_2.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 5,
+              "translation": {
+                "x": -2.96566033,
+                "y": 1.0441618,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.91135037,
+                "y": 0.466725051,
+                "z": 0.7334252
+              },
+              "rotation": {
+                "x": 0.0275086854,
+                "y": 0.857606769,
+                "z": 0.23463507,
+                "w": -0.456837356
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "translation": {
+                "x": 2.390716,
+                "y": 0.766880035,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.194322,
+                "y": 0.550945938,
+                "z": 1.78142536
+              },
+              "rotation": {
+                "x": 0.125669658,
+                "y": 0.7303705,
+                "z": -0.475061864,
+                "w": -0.4744284
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 3,
+              "translation": {
+                "x": -0.0286073685,
+                "y": 0.709746361,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.13915336,
+                "y": 0.358378083,
+                "z": 1.01721776
+              },
+              "rotation": {
+                "x": 0.404064953,
+                "y": 0.6462691,
+                "z": -0.517614245,
+                "w": 0.388771534
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.0138948,
+                "y": -2.18479443,
+                "z": 13.0000858
+              },
+              "size": {
+                "x": 1.6224252,
+                "y": 1.6224252,
+                "z": 0.200236082
+              },
+              "rotation": {
+                "x": -0.588328242,
+                "y": 0.391276449,
+                "z": 0.500580549,
+                "w": 0.500191748
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.15346932,
+                "y": -3.261923,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.37394428,
+                "y": 0.383847028,
+                "z": 2.01714683
+              },
+              "rotation": {
+                "x": 0.776480556,
+                "y": 0.259855956,
+                "z": 0.1483996,
+                "w": 0.554554343
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 5,
+              "x": 493.0,
+              "y": 299.0,
+              "width": 65.0,
+              "height": 46.0
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "x": 848.0,
+              "y": 318.0,
+              "width": 14.0,
+              "height": 33.0
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 3,
+              "x": 676.0,
+              "y": 342.0,
+              "width": 4.0,
+              "height": 9.0
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "x": 755.0,
+              "y": 493.0,
+              "width": 74.0,
+              "height": 24.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "x": 608.0,
+              "y": 599.0,
+              "width": 18.0,
+              "height": 18.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_2.png"
+        }
+      ]
+    },
+    {
+      "id": "f6aecff5-f84e-4bc4-8281-09bfba95e77f",
+      "sequence_id": "adb65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_3.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "x": 738.0,
+              "y": 418.0,
+              "width": 26.0,
+              "height": 57.0
+            },
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 4,
+              "x": 770.0,
+              "y": 571.0,
+              "width": 13.0,
+              "height": 8.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_3.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "translation": {
+                "x": 1.15278339,
+                "y": -0.945327759,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.3739444,
+                "y": 0.3838469,
+                "z": 2.01714563
+              },
+              "rotation": {
+                "x": -0.391048551,
+                "y": 0.3196448,
+                "z": 0.627292335,
+                "w": 0.5928006
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 4,
+              "translation": {
+                "x": 1.45118761,
+                "y": -3.415973,
+                "z": 13.0
+              },
+              "size": {
+                "x": 0.4445001,
+                "y": 0.444500059,
+                "z": 1.473834
+              },
+              "rotation": {
+                "x": 0.08750377,
+                "y": 0.9685408,
+                "z": -0.04538942,
+                "w": 0.228498772
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09b0314d-96be-4a8d-9c7a-98bad6a2ebcb",
+      "sequence_id": "aeb65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_4.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_4.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "x": 559.0,
+              "y": 310.0,
+              "width": 2.0,
+              "height": 2.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 12,
+              "x": 714.0,
+              "y": 336.0,
+              "width": 36.0,
+              "height": 27.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.572403,
+                "y": 0.8687453,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.37394428,
+                "y": 0.383846939,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": -0.330502033,
+                "y": 0.7714474,
+                "z": 0.5322908,
+                "w": -0.110922635
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 12,
+              "translation": {
+                "x": 0.463308334,
+                "y": 0.9843788,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.37394428,
+                "y": 0.383846968,
+                "z": 2.01714635
+              },
+              "rotation": {
+                "x": 0.821929753,
+                "y": 0.119796492,
+                "z": 0.523847163,
+                "w": 0.188850433
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b836daa9-dc89-4498-beba-222b8a499440",
+      "sequence_id": "afb65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_5.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 11,
+              "translation": {
+                "x": 2.58871078,
+                "y": 1.17078114,
+                "z": 13.0
+              },
+              "size": {
+                "x": 0.5819153,
+                "y": 0.334714383,
+                "z": 1.68560922
+              },
+              "rotation": {
+                "x": 0.207870677,
+                "y": 0.4495064,
+                "z": -0.864258945,
+                "w": -0.0882629156
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 13,
+              "translation": {
+                "x": -0.61355114,
+                "y": 0.8994441,
+                "z": 13.0
+              },
+              "size": {
+                "x": 0.58191514,
+                "y": 0.334714353,
+                "z": 1.68560922
+              },
+              "rotation": {
+                "x": -0.979305,
+                "y": -0.0313628577,
+                "z": -0.0917272344,
+                "w": 0.1776631
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "translation": {
+                "x": 0.2596302,
+                "y": -3.21767855,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.19432235,
+                "y": 0.5509461,
+                "z": 1.78142548
+              },
+              "rotation": {
+                "x": -0.15264681,
+                "y": 0.394843668,
+                "z": 0.9051796,
+                "w": 0.03804424
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 8,
+              "translation": {
+                "x": 2.78944921,
+                "y": -3.72851062,
+                "z": 13.0
+              },
+              "size": {
+                "x": 0.444499969,
+                "y": 0.44449988,
+                "z": 1.47383356
+              },
+              "rotation": {
+                "x": -0.6557718,
+                "y": 0.257720679,
+                "z": 0.6520842,
+                "w": 0.2798742
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 5,
+              "translation": {
+                "x": -1.7016108,
+                "y": -3.95901227,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.91135025,
+                "y": 0.466725141,
+                "z": 0.7334252
+              },
+              "rotation": {
+                "x": 0.8843469,
+                "y": 0.18784529,
+                "z": 0.389935464,
+                "w": 0.1749146
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 11,
+              "x": 832.0,
+              "y": 287.0,
+              "width": 20.0,
+              "height": 14.0
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 13,
+              "x": 651.0,
+              "y": 315.0,
+              "width": 12.0,
+              "height": 11.0
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "x": 674.0,
+              "y": 562.0,
+              "width": 41.0,
+              "height": 28.0
+            },
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 8,
+              "x": 838.0,
+              "y": 585.0,
+              "width": 22.0,
+              "height": 24.0
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 5,
+              "x": 544.0,
+              "y": 596.0,
+              "width": 43.0,
+              "height": 41.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_5.png"
+        }
+      ]
+    },
+    {
+      "id": "67c64c5d-eecf-4466-8d29-6825c630f675",
+      "sequence_id": "b0b65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_6.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "x": 748.0,
+              "y": 320.0,
+              "width": 36.0,
+              "height": 61.0
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "x": 587.0,
+              "y": 469.0,
+              "width": 55.0,
+              "height": 30.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "x": 767.0,
+              "y": 488.0,
+              "width": 32.0,
+              "height": 30.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "translation": {
+                "x": 1.7446394,
+                "y": 0.5165758,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.19432211,
+                "y": 0.550946,
+                "z": 1.78142583
+              },
+              "rotation": {
+                "x": -0.645045,
+                "y": -0.741239667,
+                "z": 0.0151589215,
+                "w": 0.185070187
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "translation": {
+                "x": -1.14937484,
+                "y": -1.77146268,
+                "z": 12.9881964
+              },
+              "size": {
+                "x": 1.6224252,
+                "y": 1.6224252,
+                "z": 0.200236112
+              },
+              "rotation": {
+                "x": -0.645562,
+                "y": 0.435509861,
+                "z": 0.209844813,
+                "w": 0.591224253
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "translation": {
+                "x": 1.90403557,
+                "y": -1.541172,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.3739444,
+                "y": 0.383847,
+                "z": 2.01714635
+              },
+              "rotation": {
+                "x": 0.859459639,
+                "y": -0.016524449,
+                "z": 0.256321728,
+                "w": 0.441990167
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_6.png"
+        }
+      ]
+    },
+    {
+      "id": "b549c901-4a8d-4fb6-961a-b029b28f8595",
+      "sequence_id": "b1b65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_7.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 16,
+              "x": 623.0,
+              "y": 250.0,
+              "width": 74.0,
+              "height": 85.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 15,
+              "x": 785.0,
+              "y": 298.0,
+              "width": 30.0,
+              "height": 66.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 17,
+              "x": 547.0,
+              "y": 339.0,
+              "width": 26.0,
+              "height": 34.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 12,
+              "x": 582.0,
+              "y": 472.0,
+              "width": 72.0,
+              "height": 45.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "x": 717.0,
+              "y": 506.0,
+              "width": 46.0,
+              "height": 55.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_7.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 16,
+              "translation": {
+                "x": -0.0793633461,
+                "y": 1.43583584,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.3739444,
+                "y": 0.383846939,
+                "z": 2.017146
+              },
+              "rotation": {
+                "x": 0.6542537,
+                "y": -0.500556052,
+                "z": -0.0263944566,
+                "w": 0.566303
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 15,
+              "translation": {
+                "x": 2.2154665,
+                "y": 1.21487236,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.37394476,
+                "y": 0.383847,
+                "z": 2.01714635
+              },
+              "rotation": {
+                "x": -0.395734936,
+                "y": 0.472068042,
+                "z": 0.5038249,
+                "w": 0.605562747
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 17,
+              "translation": {
+                "x": -1.82904077,
+                "y": 0.02876091,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.37394476,
+                "y": 0.383846939,
+                "z": 2.01714659
+              },
+              "rotation": {
+                "x": -0.5371848,
+                "y": 0.5867894,
+                "z": 0.556764543,
+                "w": 0.239006355
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 12,
+              "translation": {
+                "x": -1.40898633,
+                "y": -1.991826,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.37394428,
+                "y": 0.383846849,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": -0.004504968,
+                "y": 0.204023153,
+                "z": 0.200430274,
+                "w": -0.958218157
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.6711402,
+                "y": -2.62067127,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.37394428,
+                "y": 0.3838469,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": -0.41639784,
+                "y": 0.8252273,
+                "z": -0.141858041,
+                "w": 0.3542443
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2eb0f677-0362-430d-83c4-65aa8fec6c90",
+      "sequence_id": "b2b65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_8.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 5,
+              "x": 582.0,
+              "y": 270.0,
+              "width": 15.0,
+              "height": 16.0
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 3,
+              "x": 843.0,
+              "y": 446.0,
+              "width": 17.0,
+              "height": 18.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 12,
+              "x": 606.0,
+              "y": 402.0,
+              "width": 29.0,
+              "height": 66.0
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 18,
+              "x": 674.0,
+              "y": 490.0,
+              "width": 88.0,
+              "height": 17.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "x": 608.0,
+              "y": 521.0,
+              "width": 29.0,
+              "height": 57.0
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "x": 498.0,
+              "y": 544.0,
+              "width": 73.0,
+              "height": 84.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_8.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 5,
+              "translation": {
+                "x": -1.17871952,
+                "y": 1.51219225,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.91135061,
+                "y": 0.466725,
+                "z": 0.7334252
+              },
+              "rotation": {
+                "x": 0.204178214,
+                "y": 0.9157964,
+                "z": 0.2192435,
+                "w": 0.26750806
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 3,
+              "translation": {
+                "x": 2.69158173,
+                "y": -1.40495348,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.13915336,
+                "y": 0.3583781,
+                "z": 1.01721776
+              },
+              "rotation": {
+                "x": -0.0221588016,
+                "y": 0.7739696,
+                "z": -0.184328735,
+                "w": -0.6053949
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 12,
+              "translation": {
+                "x": -1.1195097,
+                "y": -0.7032223,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.3739444,
+                "y": 0.383846939,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": 0.393222928,
+                "y": -0.409162134,
+                "z": -0.411405981,
+                "w": -0.713237166
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 18,
+              "translation": {
+                "x": 0.636602759,
+                "y": -1.896896,
+                "z": 13.0174494
+              },
+              "size": {
+                "x": 1.622425,
+                "y": 1.622425,
+                "z": 0.200236082
+              },
+              "rotation": {
+                "x": 0.585029542,
+                "y": -0.02037926,
+                "z": -0.0127756819,
+                "w": 0.810655236
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.1082077,
+                "y": -2.85743213,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.3739444,
+                "y": 0.383846939,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": 0.24759762,
+                "y": -0.27329728,
+                "z": -0.589938462,
+                "w": -0.7183152
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "translation": {
+                "x": -2.92542863,
+                "y": -3.79591,
+                "z": 12.9955473
+              },
+              "size": {
+                "x": 1.622425,
+                "y": 1.6224252,
+                "z": 0.2002361
+              },
+              "rotation": {
+                "x": -0.72309047,
+                "y": 0.131480917,
+                "z": -0.398364872,
+                "w": 0.548779
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8616484-3d11-44cf-8c29-5d2d26708db2",
+      "sequence_id": "b3b65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_9.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "x": 685.0,
+              "y": 437.0,
+              "width": 36.0,
+              "height": 26.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 6,
+              "translation": {
+                "x": -0.139854431,
+                "y": -0.840224266,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.3739444,
+                "y": 0.383846939,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": -0.216271177,
+                "y": -0.583326757,
+                "z": 0.1745533,
+                "w": 0.7632089
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_9.png"
+        }
+      ]
+    },
+    {
+      "id": "4c12b9b8-d25c-421e-9872-a8ad823ef758",
+      "sequence_id": "b4b65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_10.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_10.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.43362233,
+                "y": 1.10363269,
+                "z": 13.0245256
+              },
+              "size": {
+                "x": 1.62242508,
+                "y": 1.6224252,
+                "z": 0.200236082
+              },
+              "rotation": {
+                "x": -0.360354722,
+                "y": 0.386031955,
+                "z": 0.7881738,
+                "w": 0.316078961
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 3,
+              "translation": {
+                "x": 2.29028082,
+                "y": -0.5613785,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.13915336,
+                "y": 0.358378142,
+                "z": 1.017218
+              },
+              "rotation": {
+                "x": -0.639039457,
+                "y": -0.4831941,
+                "z": -0.254064739,
+                "w": 0.54185164
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 19,
+              "translation": {
+                "x": -2.2074554,
+                "y": -2.036055,
+                "z": 13.0
+              },
+              "size": {
+                "x": 0.58191514,
+                "y": 0.334714383,
+                "z": 1.68560946
+              },
+              "rotation": {
+                "x": 0.9444323,
+                "y": -0.242469,
+                "z": 0.218639523,
+                "w": -0.03812103
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 13,
+              "translation": {
+                "x": -0.446512222,
+                "y": -3.06415725,
+                "z": 13.0
+              },
+              "size": {
+                "x": 0.5819151,
+                "y": 0.334714264,
+                "z": 1.68560886
+              },
+              "rotation": {
+                "x": -0.058596842,
+                "y": -0.273220271,
+                "z": 0.670781851,
+                "w": -0.686999857
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 1,
+              "x": 682.0,
+              "y": 287.0,
+              "width": 47.0,
+              "height": 31.0
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 3,
+              "x": 783.0,
+              "y": 398.0,
+              "width": 15.0,
+              "height": 6.0
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 19,
+              "x": 573.0,
+              "y": 490.0,
+              "width": 11.0,
+              "height": 11.0
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 13,
+              "x": 637.0,
+              "y": 526.0,
+              "width": 18.0,
+              "height": 21.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7a5de2c-fd9c-48f4-9d82-19f6932952c2",
+      "sequence_id": "b5b65af5-568c-42e6-8904-691deba71b94",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB8a96dbf9-cd4d-4228-861a-d096d3c7f70e/rgb_11.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "x": 493.0,
+              "y": 470.0,
+              "width": 39.0,
+              "height": 91.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentationd30e5f70-ec04-44ee-9935-254e61a88311/segmentation_11.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 2,
+              "translation": {
+                "x": -2.87983918,
+                "y": -2.43520641,
+                "z": 13.0
+              },
+              "size": {
+                "x": 1.19432187,
+                "y": 0.550946057,
+                "z": 1.7814256
+              },
+              "rotation": {
+                "x": -0.521498263,
+                "y": -0.10919185,
+                "z": 0.129126161,
+                "w": 0.8363272
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

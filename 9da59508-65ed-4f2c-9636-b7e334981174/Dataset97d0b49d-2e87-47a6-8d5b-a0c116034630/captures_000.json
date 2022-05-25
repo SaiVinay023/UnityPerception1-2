@@ -1,0 +1,2095 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "1da84aa5-dfb9-4a42-96b9-0ed23dc1433d",
+      "sequence_id": "4f6acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_2.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 4,
+              "translation": {
+                "x": -2.0014894,
+                "y": 1.050703,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.91135,
+                "y": 0.466725141,
+                "z": 0.7334252
+              },
+              "rotation": {
+                "x": 0.726462245,
+                "y": -0.418077946,
+                "z": -0.216129184,
+                "w": 0.500751138
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "translation": {
+                "x": 0.9339466,
+                "y": 0.408905029,
+                "z": 10.0
+              },
+              "size": {
+                "x": 2.06277275,
+                "y": 0.844122767,
+                "z": 0.8431989
+              },
+              "rotation": {
+                "x": -0.04446206,
+                "y": 0.724588931,
+                "z": -0.6840175,
+                "w": 0.07151369
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "translation": {
+                "x": -0.9949832,
+                "y": -1.67713881,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.91135037,
+                "y": 0.466725051,
+                "z": 0.7334252
+              },
+              "rotation": {
+                "x": 0.846885562,
+                "y": 0.2296007,
+                "z": 0.1760446,
+                "w": -0.446180135
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 4,
+              "x": 490.0,
+              "y": 244.0,
+              "width": 119.0,
+              "height": 138.0
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "x": 677.0,
+              "y": 322.0,
+              "width": 138.0,
+              "height": 70.0
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "x": 551.0,
+              "y": 450.0,
+              "width": 129.0,
+              "height": 95.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_2.png"
+        }
+      ]
+    },
+    {
+      "id": "657423ae-0812-4600-925a-71a4a3199338",
+      "sequence_id": "506acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_3.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "x": 746.0,
+              "y": 271.0,
+              "width": 58.0,
+              "height": 135.0
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 5,
+              "x": 527.0,
+              "y": 433.0,
+              "width": 67.0,
+              "height": 107.0
+            },
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "x": 700.0,
+              "y": 504.0,
+              "width": 51.0,
+              "height": 69.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_3.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "translation": {
+                "x": 1.38495636,
+                "y": 0.665922642,
+                "z": 10.0
+              },
+              "size": {
+                "x": 2.06277132,
+                "y": 0.844122648,
+                "z": 0.8431987
+              },
+              "rotation": {
+                "x": -0.1274069,
+                "y": -0.474642873,
+                "z": -0.5618383,
+                "w": -0.6654467
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 5,
+              "translation": {
+                "x": -1.80525541,
+                "y": -1.47724438,
+                "z": 10.0
+              },
+              "size": {
+                "x": 2.0627718,
+                "y": 0.8441228,
+                "z": 0.843198836
+              },
+              "rotation": {
+                "x": 0.14856866,
+                "y": -0.5924694,
+                "z": 0.414188266,
+                "w": 0.6748004
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.6554842,
+                "y": -2.33119535,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.493424743,
+                "y": 0.495215178,
+                "z": 0.9329636
+              },
+              "rotation": {
+                "x": 0.739079833,
+                "y": 0.365676761,
+                "z": -0.190672264,
+                "w": 0.5326215
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7da24d89-64e6-4d7e-8710-f82de4ccfb75",
+      "sequence_id": "516acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_4.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_4.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "x": 726.0,
+              "y": 286.0,
+              "width": 74.0,
+              "height": 95.0
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "x": 569.0,
+              "y": 312.0,
+              "width": 94.0,
+              "height": 82.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 7,
+              "x": 516.0,
+              "y": 417.0,
+              "width": 99.0,
+              "height": 136.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "translation": {
+                "x": 1.16237831,
+                "y": 0.8001652,
+                "z": 10.0
+              },
+              "size": {
+                "x": 2.062771,
+                "y": 0.844122767,
+                "z": 0.8431987
+              },
+              "rotation": {
+                "x": 0.01703903,
+                "y": 0.5850979,
+                "z": -0.326952219,
+                "w": 0.741938233
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "translation": {
+                "x": -0.9787512,
+                "y": 0.442517281,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.13915336,
+                "y": 0.358378172,
+                "z": 1.01721787
+              },
+              "rotation": {
+                "x": -0.9429439,
+                "y": -0.236292318,
+                "z": 0.04047474,
+                "w": 0.2310511
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 7,
+              "translation": {
+                "x": -1.76165771,
+                "y": -1.54116774,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.37394428,
+                "y": 0.383846879,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": -0.07299017,
+                "y": -0.8452371,
+                "z": -0.5293726,
+                "w": -0.00336830318
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "873b7044-fa47-4524-8497-bda4bba2608a",
+      "sequence_id": "526acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_5.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "translation": {
+                "x": -2.25152516,
+                "y": 0.367620468,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.13915324,
+                "y": 0.358378023,
+                "z": 1.01721776
+              },
+              "rotation": {
+                "x": -0.280679584,
+                "y": -0.2752389,
+                "z": 0.298824131,
+                "w": -0.8695784
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 9,
+              "translation": {
+                "x": -0.303278923,
+                "y": -0.764390945,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.5819151,
+                "y": 0.334714353,
+                "z": 1.68560934
+              },
+              "rotation": {
+                "x": -0.220575988,
+                "y": -0.8908249,
+                "z": -0.303258181,
+                "w": 0.2565379
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 10,
+              "translation": {
+                "x": 2.02007961,
+                "y": -0.9656992,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.19432187,
+                "y": 0.550946,
+                "z": 1.78142512
+              },
+              "rotation": {
+                "x": 0.1874266,
+                "y": 0.4302527,
+                "z": 0.5101038,
+                "w": 0.720796764
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "translation": {
+                "x": 1.00341225,
+                "y": -3.23834443,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.91135,
+                "y": 0.466725051,
+                "z": 0.733424962
+              },
+              "rotation": {
+                "x": -0.03842467,
+                "y": -0.5964588,
+                "z": 0.681077063,
+                "w": -0.4229592
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "x": 490.0,
+              "y": 317.0,
+              "width": 86.0,
+              "height": 85.0
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 9,
+              "x": 635.0,
+              "y": 394.0,
+              "width": 61.0,
+              "height": 82.0
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 10,
+              "x": 756.0,
+              "y": 396.0,
+              "width": 122.0,
+              "height": 110.0
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "x": 689.0,
+              "y": 537.0,
+              "width": 116.0,
+              "height": 133.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_5.png"
+        }
+      ]
+    },
+    {
+      "id": "c79f9f32-9cdd-40fe-879b-4f4f41639ffc",
+      "sequence_id": "536acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_6.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "x": 494.0,
+              "y": 286.0,
+              "width": 73.0,
+              "height": 60.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 7,
+              "x": 688.0,
+              "y": 240.0,
+              "width": 137.0,
+              "height": 136.0
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "x": 573.0,
+              "y": 430.0,
+              "width": 53.0,
+              "height": 74.0
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 10,
+              "x": 803.0,
+              "y": 411.0,
+              "width": 71.0,
+              "height": 144.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "translation": {
+                "x": -2.275124,
+                "y": 1.06534,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.493424922,
+                "y": 0.495215178,
+                "z": 0.9329636
+              },
+              "rotation": {
+                "x": 0.342742771,
+                "y": 0.511794865,
+                "z": 0.7034234,
+                "w": 0.354667574
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 7,
+              "translation": {
+                "x": 1.02668667,
+                "y": 1.17379951,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.37394476,
+                "y": 0.383847,
+                "z": 2.01714659
+              },
+              "rotation": {
+                "x": -0.5815208,
+                "y": 0.6947496,
+                "z": -0.4107646,
+                "w": 0.102123089
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "translation": {
+                "x": -1.23188853,
+                "y": -1.26839781,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.13915348,
+                "y": 0.3583781,
+                "z": 1.01721787
+              },
+              "rotation": {
+                "x": -0.3432662,
+                "y": 0.5396786,
+                "z": 0.425461054,
+                "w": 0.64023304
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 10,
+              "translation": {
+                "x": 2.28565979,
+                "y": -1.46725082,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.194322,
+                "y": 0.550946057,
+                "z": 1.781426
+              },
+              "rotation": {
+                "x": 0.6525014,
+                "y": 0.656342447,
+                "z": -0.2562589,
+                "w": 0.278904885
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_6.png"
+        }
+      ]
+    },
+    {
+      "id": "5d5c8cea-32eb-4969-9aad-53a8249e23b4",
+      "sequence_id": "546acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_7.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 5,
+              "x": 612.0,
+              "y": 239.0,
+              "width": 116.0,
+              "height": 88.0
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "x": 798.0,
+              "y": 308.0,
+              "width": 61.0,
+              "height": 71.0
+            },
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "x": 528.0,
+              "y": 447.0,
+              "width": 72.0,
+              "height": 62.0
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "x": 599.0,
+              "y": 554.0,
+              "width": 115.0,
+              "height": 108.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_7.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 5,
+              "translation": {
+                "x": -0.23968935,
+                "y": 1.47456217,
+                "z": 10.0
+              },
+              "size": {
+                "x": 2.06277156,
+                "y": 0.8441229,
+                "z": 0.8431989
+              },
+              "rotation": {
+                "x": -0.5424163,
+                "y": 0.2465907,
+                "z": 0.346402943,
+                "w": 0.7245569
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "translation": {
+                "x": 2.20409966,
+                "y": 0.6045232,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.13915348,
+                "y": 0.358378142,
+                "z": 1.01721787
+              },
+              "rotation": {
+                "x": 0.256794274,
+                "y": 0.6400105,
+                "z": -0.668222845,
+                "w": 0.2791444
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.81210279,
+                "y": -1.45785713,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.493424743,
+                "y": 0.495215058,
+                "z": 0.932963252
+              },
+              "rotation": {
+                "x": 0.307207882,
+                "y": 0.8532535,
+                "z": -0.326509178,
+                "w": -0.266408563
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "translation": {
+                "x": -0.4336605,
+                "y": -3.322339,
+                "z": 10.0
+              },
+              "size": {
+                "x": 2.06277132,
+                "y": 0.8441228,
+                "z": 0.8431987
+              },
+              "rotation": {
+                "x": -0.644724846,
+                "y": 0.381249249,
+                "z": 0.172119409,
+                "w": 0.639807642
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3aed2a15-c2ef-4d42-bd55-00a5a49155bd",
+      "sequence_id": "556acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_8.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 14,
+              "x": 498.0,
+              "y": 364.0,
+              "width": 153.0,
+              "height": 36.0
+            },
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 12,
+              "x": 732.0,
+              "y": 323.0,
+              "width": 30.0,
+              "height": 100.0
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 13,
+              "x": 616.0,
+              "y": 438.0,
+              "width": 115.0,
+              "height": 135.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_8.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 14,
+              "translation": {
+                "x": -1.6212585,
+                "y": 0.0303577185,
+                "z": 10.0019217
+              },
+              "size": {
+                "x": 1.62242556,
+                "y": 1.62242544,
+                "z": 0.200236127
+              },
+              "rotation": {
+                "x": 0.331466258,
+                "y": -0.6105754,
+                "z": -0.6789502,
+                "w": -0.237391174
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 1,
+              "label_name": "drink_greentea_itoen",
+              "instance_id": 12,
+              "translation": {
+                "x": 0.9598732,
+                "y": 0.166226387,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.444500029,
+                "y": 0.444500118,
+                "z": 1.47383392
+              },
+              "rotation": {
+                "x": 0.7121636,
+                "y": -0.255877733,
+                "z": -0.2387369,
+                "w": -0.6085674
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 6,
+              "label_name": "candy_minipralines_lindt",
+              "instance_id": 13,
+              "translation": {
+                "x": -0.1871243,
+                "y": -1.82278919,
+                "z": 9.954929
+              },
+              "size": {
+                "x": 1.62242484,
+                "y": 1.62242532,
+                "z": 0.200236112
+              },
+              "rotation": {
+                "x": -0.9430545,
+                "y": -0.130412489,
+                "z": 0.218705118,
+                "w": 0.214030147
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83d6d47f-1f62-409a-9a41-4f1eb51d9d5c",
+      "sequence_id": "566acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_9.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 10,
+              "x": 642.0,
+              "y": 241.0,
+              "width": 125.0,
+              "height": 129.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 9,
+              "label_name": "snack_biscotti_ghiott",
+              "instance_id": 10,
+              "translation": {
+                "x": 0.36249733,
+                "y": 1.12659788,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.19432187,
+                "y": 0.550946,
+                "z": 1.78142536
+              },
+              "rotation": {
+                "x": 0.191328272,
+                "y": -0.732597053,
+                "z": -0.374436617,
+                "w": -0.5352497
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_9.png"
+        }
+      ]
+    },
+    {
+      "id": "c4c85f02-af36-434e-96c5-63a72395c8b6",
+      "sequence_id": "576acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_10.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_10.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.693269,
+                "y": 1.404696,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.4934247,
+                "y": 0.495215058,
+                "z": 0.932963252
+              },
+              "rotation": {
+                "x": 0.222479016,
+                "y": -0.09101438,
+                "z": -0.388189018,
+                "w": 0.889679
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 9,
+              "translation": {
+                "x": 1.70064259,
+                "y": -0.103363037,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.5819151,
+                "y": 0.334714323,
+                "z": 1.685609
+              },
+              "rotation": {
+                "x": 0.250590742,
+                "y": 0.0192506183,
+                "z": -0.8780473,
+                "w": 0.407267332
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "translation": {
+                "x": -1.68812943,
+                "y": -0.8031106,
+                "z": 10.0
+              },
+              "size": {
+                "x": 2.06277132,
+                "y": 0.8441227,
+                "z": 0.8431989
+              },
+              "rotation": {
+                "x": -0.500374436,
+                "y": -0.252536267,
+                "z": -0.284057081,
+                "w": 0.7779219
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 7,
+              "translation": {
+                "x": 1.89862537,
+                "y": -2.486747,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.37394416,
+                "y": 0.383846879,
+                "z": 2.01714587
+              },
+              "rotation": {
+                "x": 0.645554841,
+                "y": 0.008443594,
+                "z": 0.687481463,
+                "w": 0.332500935
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "translation": {
+                "x": -0.108859062,
+                "y": -2.41362381,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.91135025,
+                "y": 0.466725022,
+                "z": 0.7334251
+              },
+              "rotation": {
+                "x": -0.4307673,
+                "y": 0.401130944,
+                "z": -0.297790885,
+                "w": 0.7515678
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "x": 545.0,
+              "y": 255.0,
+              "width": 55.0,
+              "height": 62.0
+            },
+            {
+              "label_id": 3,
+              "label_name": "lotion_essentially_nivea",
+              "instance_id": 9,
+              "x": 761.0,
+              "y": 361.0,
+              "width": 82.0,
+              "height": 50.0
+            },
+            {
+              "label_id": 4,
+              "label_name": "craft_yarn_caron",
+              "instance_id": 3,
+              "x": 502.0,
+              "y": 402.0,
+              "width": 131.0,
+              "height": 68.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "cereal_cheerios_honeynut",
+              "instance_id": 7,
+              "x": 744.0,
+              "y": 488.0,
+              "width": 137.0,
+              "height": 127.0
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "x": 624.0,
+              "y": 475.0,
+              "width": 108.0,
+              "height": 142.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b1d3807-675d-4728-b3a8-b3d9fce781de",
+      "sequence_id": "586acac0-adbd-4c1c-9bfd-7a7a5edc1904",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          1.0,
+          -10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.973803043,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBec83517f-bd69-4080-99fe-13fdcad5bf7e/rgb_11.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "x": 718.0,
+              "y": 280.0,
+              "width": 102.0,
+              "height": 81.0
+            },
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "x": 760.0,
+              "y": 420.0,
+              "width": 52.0,
+              "height": 69.0
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "x": 501.0,
+              "y": 407.0,
+              "width": 138.0,
+              "height": 107.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation2b2419d3-bed5-419d-9be4-d7a11bc27f14/segmentation_11.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 8,
+              "label_name": "snack_granolabar_naturevalley",
+              "instance_id": 8,
+              "translation": {
+                "x": 1.27529716,
+                "y": 0.972394,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.13915408,
+                "y": 0.358378142,
+                "z": 1.01721835
+              },
+              "rotation": {
+                "x": 0.1277896,
+                "y": -0.8798073,
+                "z": 0.3757558,
+                "w": -0.261565864
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 2,
+              "label_name": "drink_whippingcream_lucerne",
+              "instance_id": 6,
+              "translation": {
+                "x": 1.52545452,
+                "y": -1.03477907,
+                "z": 10.0
+              },
+              "size": {
+                "x": 0.493424743,
+                "y": 0.495215118,
+                "z": 0.9329635
+              },
+              "rotation": {
+                "x": -0.6868414,
+                "y": 0.114279896,
+                "z": 0.262129545,
+                "w": 0.668189466
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 7,
+              "label_name": "pasta_lasagne_barilla",
+              "instance_id": 2,
+              "translation": {
+                "x": -1.65333414,
+                "y": -1.1229763,
+                "z": 10.0
+              },
+              "size": {
+                "x": 1.91134989,
+                "y": 0.466725022,
+                "z": 0.733424962
+              },
+              "rotation": {
+                "x": 0.471835464,
+                "y": -0.07438367,
+                "z": 0.271674246,
+                "w": 0.8354828
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": "0.0.1",
+  "metrics": [
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "b978c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        0
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "b978c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "ba78c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        1
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "ba78c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "bb78c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        2
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "bb78c1ea-ce1f-44ac-b0fa-3d69991b2fc9",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    }
+  ]
+}

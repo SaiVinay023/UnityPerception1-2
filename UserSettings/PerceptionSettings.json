@@ -1,0 +1,6 @@
+{
+  "UnityEngine.Perception.GroundTruth.Consumers.PerceptionEndpoint.output_path": {
+    "type": "String",
+    "value": "C:/Users/saivinay023/Desktop/Unity/perception"
+  }
+}
